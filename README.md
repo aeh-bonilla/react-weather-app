@@ -45,3 +45,9 @@ npm start
 [Algolia Places](https://community.algolia.com/places/ 'Algolia Places') (Place suggestion API)
 
 [Icons8.com](https://www.icons8.com 'Icons8.com') (Weather icons)
+# BADGE SETUP
+## Actions Status
+
+![Continuous Integration](https://github.com/aeh-bonilla/react-weather-app/actions/workflows/CI.yml/badge.svg)
+
+![Continuous Deployment](https://github.com/aeh-bonilla/react-weather-app/actions/workflows/CD.yml/badge.svg)
